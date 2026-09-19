@@ -5,9 +5,7 @@ I’m Amrutha, a passionate learner exploring full-stack development, web techno
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_amrutha_shekhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Amrutha J S
-
-Information Science Engineering Student | Web Developer | AI & Generative AI Enthusiast | Building Real-World Projects | Tech Explorer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amrutha-j-s-0b9844339?utm_source=chatgpt.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitheshnaik55@gmail.com)
 
 ## 💻 Tech Stack
